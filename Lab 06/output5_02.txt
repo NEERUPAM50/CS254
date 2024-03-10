@@ -1,0 +1,13 @@
+0 2 
+2 3 
+2 
+1 2 3 
+1 
+no articulation point
+no articulation point
+1 2 3 4 
+1 2 3 4 5 
+no articulation point
+no articulation point
+no articulation point
+3 4 
